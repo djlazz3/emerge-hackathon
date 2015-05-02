@@ -14,7 +14,7 @@ Teams
 -----
 
 - [Amazing Project](#) by People With Computers
-
+- [JobKits](https://github.com/djlazz3/Emerge2015) by Three Tech Stooges
 
 
 Registering Your Team
